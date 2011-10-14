@@ -44,7 +44,23 @@ module YandexDetector
         nil
       end
     end
-        
+    
+    def data
+      begin
+        @data[:data]
+      rescue
+        nil
+      end
+    end
+    
+    def text
+      begin
+        @data[:text]
+      rescue
+        nil
+      end      
+    end
+    
   end
 
 end
