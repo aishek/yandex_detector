@@ -1,7 +1,7 @@
 module YandexDetector
 
+  # This module contain YandexDetector::Result instance's methods, which allow to determine concrete properties of result
   module Properties
-    # This module contain YandexDetector::Result instance's methods, which allow to determine concrete properties of result
   
     # @return [Bool] network request to API service was performed
     def request_performed?

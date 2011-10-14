@@ -63,6 +63,10 @@ Please, see [complete list of available helpers](http://rubydoc.info/github/aish
 
 The [RubyDoc documentation](http://rubydoc.info/github/aishek/yandex_detector/master/frames) is available online.
 
+# How it works
+
+yandex_detector perform Yandex's API service call via network if there are at least one of needed headers provided. Please, consider right timeout value and fallback on timeout for your application to prevent slow execution.
+
 # Author
 
 Idea & implementation&nbsp;— Alexandr Borisov (<aishek@gmail.com>)
