@@ -12,12 +12,12 @@ For feedback, suggestions, etc. write to <aishek@gmail.com>.
 
 To install:
 
-* run `gem install yandex_detector`
+  gem install yandex_detector
 
 or with a Gemfile:
 
-* add this line to Gemfile `gem 'yandex_detector'`
-* next run `bundle install`
+  gem 'yandex_detector'
+  bundle install
 
 # Usage
 
