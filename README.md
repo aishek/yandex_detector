@@ -8,6 +8,8 @@ Please report issues on [Github](https://github.com/aishek/yandex_detector/issue
 
 For feedback, suggestions, etc. write to <aishek@gmail.com>.
 
+[![Build Status](https://secure.travis-ci.org/aishek/yandex_detector.png)](http://travis-ci.org/aishek/yandex_detector)
+
 # Installation
 
 To install:
