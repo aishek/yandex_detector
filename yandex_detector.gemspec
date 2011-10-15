@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{yandex_detector is a gem, wich uses Yandex.Detector API to detect via request's headers.}
   s.description = %q{yandex_detector is a gem, wich uses Yandex.Detector API to detect via request's headers (see http://api.yandex.ru/detector/).}
   s.license = 'MIT'
+  s.required_ruby_version = '>= 1.9.2'
 
   s.rubyforge_project = "yandex_detector"
 

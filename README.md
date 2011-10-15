@@ -1,6 +1,6 @@
 # Introduction
 
-yandex_detector is a Ruby wrapper for Yandex.Detector API (http://api.yandex.ru/detector/) wich allows to detect mobile device's properties by it's request headers.
+yandex_detector is a Ruby 1.9.2 wrapper for Yandex.Detector API (http://api.yandex.ru/detector/) wich allows to detect mobile device's properties by it's request headers.
 
 This document describes installation and usage of yandex_detector.
 
